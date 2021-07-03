@@ -1,1 +1,1 @@
-# static_html_template
+# 我的静态网页模板
